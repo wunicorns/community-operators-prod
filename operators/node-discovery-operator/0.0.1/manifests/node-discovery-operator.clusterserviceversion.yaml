@@ -251,6 +251,7 @@ spec:
   - email: wunicorns1436@gmail.com
     name: minhokim
   maturity: alpha
+  minKubeVersion: 1.26.0
   provider:
     name: minhokim
   version: 0.0.1
